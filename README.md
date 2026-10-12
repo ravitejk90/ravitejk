@@ -1,23 +1,21 @@
 # Hi, I'm Ravi Teja Kosuri 👋
 
-Senior Solutions Architect by day, builder by night. I architect enterprise systems at Brooks Sports and build products under the Kosmo umbrella — fitness tech, finance tooling, health, and whatever's next.
+**Principal Solutions Architect** working at the intersection of enterprise IT and applied AI. I design large-scale systems for a living and ship real products on the side — from architecture blueprints to production code.
 
-## 🔨 What I'm building
+## 🧠 What I do
 
-- **Kosmo-Fit** — Next.js + Supabase fitness app: daily tracking, diet logging, workouts
-- **Kosmo Finance** — personal finance automation and tooling
-- **Kosmo Health** — health data projects
-- **Zeus** — in the lab 🧪
+- **Enterprise architecture** — designing scalable, resilient systems across cloud and data platforms
+- **Applied AI** — putting ML and agentic AI workflows into production, not just prototypes
+- **Full-stack building** — modern stacks (Next.js, Supabase, Snowflake) from idea to deployed product
+- **Engineering leadership** — standardized conventions, documented architecture decisions, disciplined delivery
 
-## 🧠 How I work
+## 🔨 Building
 
-- Architecture-first: documented decisions, standardized conventions
-- Jira-tracked epics, disciplined Git workflows
-- Ship, measure, iterate
+A portfolio of products spanning fitness tech, finance automation, and health — AI woven in throughout. Write-ups live in my `projects` repo.
 
 ## 📈 Into
 
-Applied AI/ML · exponential tech (space, AI infrastructure, quantum, energy) · long-term investing
+Applied AI/ML · agentic workflows · exponential tech (space, AI infrastructure, quantum, energy) · long-term investing
 
 ---
 
